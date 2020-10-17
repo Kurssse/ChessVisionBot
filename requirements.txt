@@ -1,7 +1,7 @@
 # This file may be used to create an environment using:
 # $ conda create --name <env> --file <this file>
 # platform: osx-64
-_tflow_select=2.3.0=mkl
+_tflow_select=2.3.0==mkl
 absl-py=0.8.1=py37_0
 astor=0.8.0=py37_0
 blas=1.0=openblas
